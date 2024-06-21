@@ -1,0 +1,26 @@
+{
+  "name": "kola-currency-converter",
+  "version": "1.0.0",
+  "description": "npm package for currency converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameshkola-dev/kola-curreny-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "ramesh kola",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rameshkola-dev/kola-curreny-converter/issues"
+  },
+  "homepage": "https://github.com/rameshkola-dev/kola-curreny-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
